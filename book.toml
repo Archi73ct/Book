@@ -1,0 +1,6 @@
+[book]
+authors = ["Architect"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Book Of Rev"
