@@ -69,3 +69,5 @@ with KMDF. You'll want this to experiment.
 > Check the examples/windows/drivers/ folder for the ResearchDriver_Ioctl.sys
 > example driver to try.
 
+The MSDN page provides a good way of looking at drivers:
+> _[...] they are a "collection of callbacks" that, once initialized, sit and wait for the system to call them when it needs something._ 
