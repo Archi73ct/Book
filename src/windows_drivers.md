@@ -65,3 +65,7 @@ IDA is pretty good at recognizing the data types and structs used for WDM.
 
 See [https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/writing-a-very-small-kmdf--driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/writing-a-very-small-kmdf--driver) for driver development
 with KMDF. You'll want this to experiment.
+
+> Check the examples/windows/drivers/ folder for the ResearchDriver_Ioctl.sys
+> example driver to try.
+
