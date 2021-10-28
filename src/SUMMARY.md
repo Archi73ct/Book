@@ -6,3 +6,4 @@
 - [Packers](./CAP2/packers.md)
 - [Resources](./resources.md)
 - [Windows Drivers](./CAP3/windows_drivers.md)
+  - [WDF](./CAP3/WDF.md)
